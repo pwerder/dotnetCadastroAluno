@@ -1,0 +1,11 @@
+C:\Users\pawer\workspace\dotnet\cadastroAluno\bin\Debug\netcoreapp3.1\cadastroAluno.exe
+C:\Users\pawer\workspace\dotnet\cadastroAluno\bin\Debug\netcoreapp3.1\cadastroAluno.deps.json
+C:\Users\pawer\workspace\dotnet\cadastroAluno\bin\Debug\netcoreapp3.1\cadastroAluno.runtimeconfig.json
+C:\Users\pawer\workspace\dotnet\cadastroAluno\bin\Debug\netcoreapp3.1\cadastroAluno.runtimeconfig.dev.json
+C:\Users\pawer\workspace\dotnet\cadastroAluno\bin\Debug\netcoreapp3.1\cadastroAluno.dll
+C:\Users\pawer\workspace\dotnet\cadastroAluno\bin\Debug\netcoreapp3.1\cadastroAluno.pdb
+C:\Users\pawer\workspace\dotnet\cadastroAluno\obj\Debug\netcoreapp3.1\cadastroAluno.csprojAssemblyReference.cache
+C:\Users\pawer\workspace\dotnet\cadastroAluno\obj\Debug\netcoreapp3.1\cadastroAluno.AssemblyInfoInputs.cache
+C:\Users\pawer\workspace\dotnet\cadastroAluno\obj\Debug\netcoreapp3.1\cadastroAluno.AssemblyInfo.cs
+C:\Users\pawer\workspace\dotnet\cadastroAluno\obj\Debug\netcoreapp3.1\cadastroAluno.dll
+C:\Users\pawer\workspace\dotnet\cadastroAluno\obj\Debug\netcoreapp3.1\cadastroAluno.pdb
